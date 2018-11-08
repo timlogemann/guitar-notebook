@@ -6,4 +6,4 @@ description: Dit is een test bericht.
 tags:
   - guitar
 ---
-Dit is een test bericht.
+Dit is een test bericht. Ik heb meer content ingevuld.
